@@ -1,2 +1,2 @@
 # test-demo
-Auther - Avani Patel
+Auther - Avani Patel (developer)
